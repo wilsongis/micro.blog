@@ -1,0 +1,209 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Michael J Wilson",
+	"home_page_url": "https://wilson.micro.blog/",
+	"feed_url": "https://wilson.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/26/i-have-collapsed.html",
+	      	
+			"content_html": "<p>I have collapsed into sweet repose. I hate you green pool.</p>\n",
+			"date_published": "2018-05-26T16:21:55-05:00",
+			"url": "https://wilson.micro.blog/2018/05/26/i-have-collapsed.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/26/doing-a-little.html",
+	      	
+			"content_html": "<p>Doing a little coding this morning, and GitHub seems a little slow.</p>\n",
+			"date_published": "2018-05-26T11:19:15-05:00",
+			"url": "https://wilson.micro.blog/2018/05/26/doing-a-little.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/26/the-battle-with.html",
+	      	
+			"content_html": "<p>The battle with the pool continues. I am hoping for a lazy day, but the pool will thwart me.</p>\n",
+			"date_published": "2018-05-26T10:31:43-05:00",
+			"url": "https://wilson.micro.blog/2018/05/26/the-battle-with.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/25/i-have-spent.html",
+	      	
+			"content_html": "<p>I have spent my morning fighting with QGIS. I just wish it would keep my field width prefs. Every time I switch views, it resets.</p>\n",
+			"date_published": "2018-05-25T11:28:58-05:00",
+			"url": "https://wilson.micro.blog/2018/05/25/i-have-spent.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/25/150258.html",
+	      	
+			"content_html": "<p>Is there a way for me to opt-out of GDPR emails?</p>\n",
+			"date_published": "2018-05-25T10:02:58-05:00",
+			"url": "https://wilson.micro.blog/2018/05/25/150258.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/25/cant-seem-to.html",
+	      	
+			"content_html": "<p>Can’t seem to get nanopub working on my site. Not quite sure what I am missing.</p>\n",
+			"date_published": "2018-05-24T20:56:55-05:00",
+			"url": "https://wilson.micro.blog/2018/05/24/cant-seem-to.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/25/i-am-currently.html",
+	      	
+			"content_html": "<p>I am currently engaged in an epic battle with my green pool. My bitterness knows no bounds. I have worked and worked on it today. It best clear up.</p>\n",
+			"date_published": "2018-05-24T19:44:45-05:00",
+			"url": "https://wilson.micro.blog/2018/05/24/i-am-currently.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/24/i-was-supposed.html",
+	      	
+			"content_html": "<p>I was supposed to search for some Grant funding today for a research project we are looking at. Of course I forgot. I am going to have to get up early tomorrow and see if I can find anything.</p>\n",
+			"date_published": "2018-05-23T22:01:15-05:00",
+			"url": "https://wilson.micro.blog/2018/05/23/i-was-supposed.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/24/testing-another-configuration.html",
+	      	
+			"content_html": "<p>Testing another configuration of my site.</p>\n",
+			"date_published": "2018-05-23T19:52:22-05:00",
+			"url": "https://wilson.micro.blog/2018/05/23/testing-another-configuration.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/23/working-on-my.html",
+	      	
+			"content_html": "<p>Working on my rss feed again. Testing a different setup.</p>\n",
+			"date_published": "2018-05-22T20:58:52-05:00",
+			"url": "https://wilson.micro.blog/2018/05/22/working-on-my.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/22/i-recently-had.html",
+	      	
+			"content_html": "<p>I recently had to visit the Doctor and was asked what prescriptions I use. As always, I could not remember. I use 1Password regularly. Is there a way to store a picture of my meds in a secure note in 1Password? I can’t seem to find a place to do a photo attachment.</p>\n",
+			"date_published": "2018-05-22T10:27:34-05:00",
+			"url": "https://wilson.micro.blog/2018/05/22/i-recently-had.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/22/spent-most-of.html",
+	      	
+			"content_html": "<p>Spent most of my day doing managerial work such as meetings, emails, calls, etc. Luckily I got to do some actual GIS work which made me feel accomplished.</p>\n",
+			"date_published": "2018-05-21T22:07:32-05:00",
+			"url": "https://wilson.micro.blog/2018/05/21/spent-most-of.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/18/i-am-plagued.html",
+	      	
+			"content_html": "<p>I am plagued by the feeling that I have forgotten something. Not a good way to end my day.</p>\n",
+			"date_published": "2018-05-17T22:12:41-05:00",
+			"url": "https://wilson.micro.blog/2018/05/17/i-am-plagued.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/18/went-to-my.html",
+	      	
+			"content_html": "<p>Went to my son’s eighth grade banquet tonight. Seems like just yesterday, i took him to daycare.</p>\n",
+			"date_published": "2018-05-17T21:15:29-05:00",
+			"url": "https://wilson.micro.blog/2018/05/17/went-to-my.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/17/150747.html",
+	      	
+			"content_html": "<p>Trying to get a web map working this morning. I can visibly see the layers but they are invisible when I attempt to print. I guess I am going to have to start from scratch.</p>\n",
+			"date_published": "2018-05-17T10:07:47-05:00",
+			"url": "https://wilson.micro.blog/2018/05/17/150747.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/17/worked-on-my.html",
+	      	
+			"content_html": "<p>Worked on my side projects tonight. Hoping to have a new site up and running by Friday.</p>\n",
+			"date_published": "2018-05-16T23:27:40-05:00",
+			"url": "https://wilson.micro.blog/2018/05/16/worked-on-my.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/17/experimenting-with-a.html",
+	      	
+			"content_html": "<p>Experimenting with a new site link</p>\n",
+			"date_published": "2018-05-16T21:37:02-05:00",
+			"url": "https://wilson.micro.blog/2018/05/16/experimenting-with-a.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/15/test-post.html",
+	      	
+			"content_html": "<p>Test Post</p>\n",
+			"date_published": "2018-05-14T20:18:13-05:00",
+			"url": "https://wilson.micro.blog/2018/05/14/test-post.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/13/just-tried-to.html",
+	      	
+			"content_html": "<p>Just tried to do an entry to my journal with the latest version of Day One. It is really buggy. It cashed twice.</p>\n",
+			"date_published": "2018-05-13T03:59:41-05:00",
+			"url": "https://wilson.micro.blog/2018/05/13/just-tried-to.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/13/nothing-is-better.html",
+	      	
+			"content_html": "<p>Nothing is better than waking up at 3am, and not being able to fall back asleep. Getting an itch, realizing it is a tick, is just a cherry on top.</p>\n",
+			"date_published": "2018-05-13T03:51:14-05:00",
+			"url": "https://wilson.micro.blog/2018/05/13/nothing-is-better.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/13/testing-a-config.html",
+	      	
+			"content_html": "<p>Testing a config change wirh github</p>\n",
+			"date_published": "2018-05-12T22:42:09-05:00",
+			"url": "https://wilson.micro.blog/2018/05/12/testing-a-config.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/12/waiting-for-a.html",
+	      	
+			"content_html": "<p>Waiting for a doctor. I had to take my son to the doctor today. I thought he was having an Allergy issues but realized he is feverish.</p>\n",
+			"date_published": "2018-05-12T17:53:23-05:00",
+			"url": "https://wilson.micro.blog/2018/05/12/waiting-for-a.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/12/i-installed-bobby.html",
+	      	
+			"content_html": "<p>I installed Bobby on my iPhone and added most of the subscriptions I could think of. IAM am not particularly happy with the monthly numbers. With more and more apps going subscription, I am going to have to do some pruning.</p>\n",
+			"date_published": "2018-05-12T10:36:24-05:00",
+			"url": "https://wilson.micro.blog/2018/05/12/i-installed-bobby.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/12/are-there-any.html",
+	      	
+			"content_html": "<p>Are there any great posts out there that describes cross-posting to Micro.Blog and Hugo? I am having trouble finding a good how-to.</p>\n",
+			"date_published": "2018-05-11T22:47:57-05:00",
+			"url": "https://wilson.micro.blog/2018/05/11/are-there-any.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/05/12/went-fishing-with.html",
+	      	
+			"content_html": "<p>Went fishing with my daughter tonight. We had a great time and we caught some fish.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/9185d8d0bc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-11T20:32:33-05:00",
+			"url": "https://wilson.micro.blog/2018/05/11/went-fishing-with.html"
+		}
+		
+	]
+}
