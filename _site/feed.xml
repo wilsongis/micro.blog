@@ -4,8 +4,17 @@
     <title>Michael J Wilson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/wilsongis&quot;&gt;@wilsongis on Micro.blog&lt;/a&gt;.</description>
     <link>https://wilson.micro.blog/</link>
-    <pubDate>Mon, 28 May 2018 20:45:54 -0500</pubDate>
-    <lastBuildDate>Mon, 28 May 2018 20:45:54 -0500</lastBuildDate>
+    <pubDate>Tue, 29 May 2018 21:33:31 -0500</pubDate>
+    <lastBuildDate>Tue, 29 May 2018 21:33:31 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Here is my &lt;a href=&quot;http://minimalworkflow.com/blog/2018/05/29/linking-microblog/&quot;&gt;post&lt;/a&gt; about how I setup Hugo to work with Micro.Blog. I am still working on my site theme.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 May 2018 21:33:28 -0500</pubDate>
+        <link>https://wilson.micro.blog/2018/05/29/here-is-my.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/05/30/here-is-my.html</guid>
+      </item>
     
       <item>
       	
@@ -456,15 +465,6 @@
         <pubDate>Sun, 22 Apr 2018 22:12:58 -0500</pubDate>
         <link>https://wilson.micro.blog/2018/04/22/i-moved-my.html</link>
         <guid isPermaLink="true">http://wilson.micro.blog/2018/04/23/i-moved-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;To me success is not fame or money, success is having a positive impact on those we interact with.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 22 Apr 2018 21:50:10 -0500</pubDate>
-        <link>https://wilson.micro.blog/2018/04/22/to-me-success.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/04/23/to-me-success.html</guid>
       </item>
     
   </channel>
