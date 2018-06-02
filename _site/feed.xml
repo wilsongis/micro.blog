@@ -4,8 +4,26 @@
     <title>Michael J Wilson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/wilsongis&quot;&gt;@wilsongis on Micro.blog&lt;/a&gt;.</description>
     <link>https://wilson.micro.blog/</link>
-    <pubDate>Sat, 02 Jun 2018 05:11:19 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Jun 2018 05:11:19 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Jun 2018 14:02:35 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Jun 2018 14:02:35 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Going to stop trying to get nanopub.php working. I can’t get it going. Need to look into other solutions.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jun 2018 14:02:32 -0500</pubDate>
+        <link>https://wilson.micro.blog/2018/06/02/going-to-stop.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/02/going-to-stop.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Going to give it another go and see if I can get web mentions working with hugo.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jun 2018 10:35:59 -0500</pubDate>
+        <link>https://wilson.micro.blog/2018/06/02/going-to-give.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/02/going-to-give.html</guid>
+      </item>
     
       <item>
       	
@@ -447,24 +465,6 @@
         <pubDate>Sat, 05 May 2018 13:10:35 -0500</pubDate>
         <link>https://wilson.micro.blog/2018/05/05/rainy-day-in.html</link>
         <guid isPermaLink="true">http://wilson.micro.blog/2018/05/05/rainy-day-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Lucky me, I get to sleep in today and woke up at 5am. Thanks internal alarm clock!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 05 May 2018 05:31:02 -0500</pubDate>
-        <link>https://wilson.micro.blog/2018/05/05/lucky-me-i.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/05/05/lucky-me-i.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m taking several courses on Udemy. I really like their system. I decided to opt-in to their email list.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 03 May 2018 20:17:59 -0500</pubDate>
-        <link>https://wilson.micro.blog/2018/05/03/im-taking-several.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/05/04/im-taking-several.html</guid>
       </item>
     
   </channel>
