@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/02/going-to-stop.html",
+	      	
+			"content_html": "<p>Going to stop trying to get nanopub.php working. I can’t get it going. Need to look into other solutions.</p>\n",
+			"date_published": "2018-06-02T14:02:32-05:00",
+			"url": "https://wilson.micro.blog/2018/06/02/going-to-stop.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/02/going-to-give.html",
+	      	
+			"content_html": "<p>Going to give it another go and see if I can get web mentions working with hugo.</p>\n",
+			"date_published": "2018-06-02T10:35:59-05:00",
+			"url": "https://wilson.micro.blog/2018/06/02/going-to-give.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/02/power-went-out.html",
 	      	
 			"content_html": "<p>Power went out, I woke up, and now it is too quiet to go back to sleep..</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I was supposed to search for some Grant funding today for a research project we are looking at. Of course I forgot. I am going to have to get up early tomorrow and see if I can find anything.</p>\n",
 			"date_published": "2018-05-23T22:01:15-05:00",
 			"url": "https://wilson.micro.blog/2018/05/23/i-was-supposed.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/05/24/testing-another-configuration.html",
-	      	
-			"content_html": "<p>Testing another configuration of my site.</p>\n",
-			"date_published": "2018-05-23T19:52:22-05:00",
-			"url": "https://wilson.micro.blog/2018/05/23/testing-another-configuration.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/05/23/working-on-my.html",
-	      	
-			"content_html": "<p>Working on my rss feed again. Testing a different setup.</p>\n",
-			"date_published": "2018-05-22T20:58:52-05:00",
-			"url": "https://wilson.micro.blog/2018/05/22/working-on-my.html"
 		}
 		
 	]
