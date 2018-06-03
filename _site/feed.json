@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/03/testing-a-new.html",
+	      	
+			"content_html": "<p>testing a new connection</p>\n",
+			"date_published": "2018-06-02T22:08:08-05:00",
+			"url": "https://wilson.micro.blog/2018/06/02/testing-a-new.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/02/going-to-stop.html",
 	      	
 			"content_html": "<p>Going to stop trying to get nanopub.php working. I can’t get it going. Need to look into other solutions.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I am currently engaged in an epic battle with my green pool. My bitterness knows no bounds. I have worked and worked on it today. It best clear up.</p>\n",
 			"date_published": "2018-05-24T19:44:45-05:00",
 			"url": "https://wilson.micro.blog/2018/05/24/i-am-currently.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/05/24/i-was-supposed.html",
-	      	
-			"content_html": "<p>I was supposed to search for some Grant funding today for a research project we are looking at. Of course I forgot. I am going to have to get up early tomorrow and see if I can find anything.</p>\n",
-			"date_published": "2018-05-23T22:01:15-05:00",
-			"url": "https://wilson.micro.blog/2018/05/23/i-was-supposed.html"
 		}
 		
 	]
