@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/08/155746.html",
+	      	
+			"content_html": "<p>Working on a GIS project this morning. I am really enjoying the constant wait times every change I make in ArcGIS. They are not long enough to do something productive but are perfectly long enough to make me bitter.</p>\n",
+			"date_published": "2018-06-08T10:57:46-05:00",
+			"url": "https://wilson.micro.blog/2018/06/08/155746.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/08/found-a-use.html",
 	      	
 			"content_html": "<p>Found a use for iBooks today. I am using it as a PDF reader/storage for a research project. Reading-wise, I like it more than Papers on my iPad.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Wortking on automating putting Micro.Blog into my website (Hugo based). Hoping to have it running correctly some time this week.</p>\n",
 			"date_published": "2018-05-28T20:44:08-05:00",
 			"url": "https://wilson.micro.blog/2018/05/28/wortking-on-automating.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/05/28/had-to-pay.html",
-	      	
-			"content_html": "<p>Had to pay to get into the city pool. I blame you hateful semi-green home pool. Vengeance will be mine.</p>\n",
-			"date_published": "2018-05-28T10:46:30-05:00",
-			"url": "https://wilson.micro.blog/2018/05/28/had-to-pay.html"
 		}
 		
 	]
