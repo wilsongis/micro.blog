@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/10/sunset-over-kentucky.html",
+	      	
+			"content_html": "<p>Sunset over Kentucky Lake</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/499dc40c86.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-09T22:35:46-05:00",
+			"url": "https://wilson.micro.blog/2018/06/09/sunset-over-kentucky.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/10/use-of-drones.html",
+	      	
+			"content_html": "<p>Use of <a href=\"http://www.geospatialworld.net/blogs/an-aerial-view-of-the-future-drones-in-construction/\">Drones in Construction</a></p>\n",
+			"date_published": "2018-06-09T22:16:12-05:00",
+			"url": "https://wilson.micro.blog/2018/06/09/use-of-drones.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/08/155746.html",
 	      	
 			"content_html": "<p>Working on a GIS project this morning. I am really enjoying the constant wait times every change I make in ArcGIS. They are not long enough to do something productive but are perfectly long enough to make me bitter.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Here is my <a href=\"http://minimalworkflow.com/blog/2018/05/29/linking-microblog/\">post</a> about how I setup Hugo to work with Micro.Blog. I am still working on my site theme.</p>\n",
 			"date_published": "2018-05-29T21:33:28-05:00",
 			"url": "https://wilson.micro.blog/2018/05/29/here-is-my.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/05/29/started-using-working.html",
-	      	
-			"content_html": "<p>Started using Working Copy in ernest today. Got to use it, at the pool, while the kids swam. I am really impressed with it.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/33ef810cc8.jpg\" width=\"449\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-28T20:45:51-05:00",
-			"url": "https://wilson.micro.blog/2018/05/28/started-using-working.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/05/29/wortking-on-automating.html",
-	      	
-			"content_html": "<p>Wortking on automating putting Micro.Blog into my website (Hugo based). Hoping to have it running correctly some time this week.</p>\n",
-			"date_published": "2018-05-28T20:44:08-05:00",
-			"url": "https://wilson.micro.blog/2018/05/28/wortking-on-automating.html"
 		}
 		
 	]
