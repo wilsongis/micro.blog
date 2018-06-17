@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/17/tomorrow-i-am.html",
+	      	
+			"content_html": "<p>Tomorrow I am going to need to figure out how to calculate the confidence interval of a contrast using the t statistic.</p>\n",
+			"date_published": "2018-06-16T23:58:00-05:00",
+			"url": "https://wilson.micro.blog/2018/06/16/tomorrow-i-am.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/17/had-my-first.html",
+	      	
+			"content_html": "<p>Had my first experience with a float tank today. It took me a little while to get used to it, but once I did it was a great experience.</p>\n",
+			"date_published": "2018-06-16T23:51:47-05:00",
+			"url": "https://wilson.micro.blog/2018/06/16/had-my-first.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/16/as-a-fathers.html",
 	      	
 			"content_html": "<p>As a Father’s day gift, I have an hour session in a float tank. It is really different for me, but I am looking forward to it.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Not a fan of Microsoft, but they did not ruin Minecraft.</p>\n",
 			"date_published": "2018-06-04T09:05:30-05:00",
 			"url": "https://wilson.micro.blog/2018/06/04/not-a-fan.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/04/051034.html",
-	      	
-			"content_html": "<p>Not sure what I think about Microsoft and GitHub.</p>\n",
-			"date_published": "2018-06-04T00:10:34-05:00",
-			"url": "https://wilson.micro.blog/2018/06/04/051034.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/03/testing-a-new.html",
-	      	
-			"content_html": "<p>testing a new connection</p>\n",
-			"date_published": "2018-06-02T22:08:08-05:00",
-			"url": "https://wilson.micro.blog/2018/06/02/testing-a-new.html"
 		}
 		
 	]
