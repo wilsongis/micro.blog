@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/17/my-daughter-my.html",
+	      	
+			"content_html": "<p>My daughter. My bestest fishing buddy.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/2ff4d29e3e.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-17T16:37:03-05:00",
+			"url": "https://wilson.micro.blog/2018/06/17/my-daughter-my.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/17/my-son-i.html",
+	      	
+			"content_html": "<p>My son. I could not be more proud of him.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/6ab3355e73.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-17T12:22:36-05:00",
+			"url": "https://wilson.micro.blog/2018/06/17/my-son-i.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/17/wwwnytimescom-opinion-seizing.html",
+	      	
+			"content_html": "<p><a href=\"http://www.nytimes.com/2018/06/14/opinion/children-parents-asylum-immigration.html\">www.nytimes.com</a></p>\n\n<blockquote>\n  <table>\n    <tbody>\n      <tr>\n        <td>Opinion</td>\n        <td>Seizing Children From Parents at the Border Is Immoral. Here’s What We Can Do.</td>\n      </tr>\n    </tbody>\n  </table>\n</blockquote>\n",
+			"date_published": "2018-06-17T11:47:00-05:00",
+			"url": "https://wilson.micro.blog/2018/06/17/wwwnytimescom-opinion-seizing.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/17/tomorrow-i-am.html",
 	      	
 			"content_html": "<p>Tomorrow I am going to need to figure out how to calculate the confidence interval of a contrast using the t statistic.</p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>i have decided to post something witty or funny latter today.</p>\n",
 			"date_published": "2018-06-06T07:55:34-05:00",
 			"url": "https://wilson.micro.blog/2018/06/06/i-have-decided.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/05/working-to-discover.html",
-	      	
-			"content_html": "<p>Working to discover an issue with a join in ArcGIS. The SQL tools in the software have not changed in years. With the increased use of Enterprise DB systems it is ridiculous that we are using tools that have not evolved in years.</p>\n",
-			"date_published": "2018-06-05T12:56:08-05:00",
-			"url": "https://wilson.micro.blog/2018/06/05/working-to-discover.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/04/i-had-to.html",
-	      	
-			"content_html": "<p>I had to spend the day home from work today, taking my daughter to the dentist. I forgot WWDC was going on today.</p>\n",
-			"date_published": "2018-06-04T16:17:49-05:00",
-			"url": "https://wilson.micro.blog/2018/06/04/i-had-to.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/04/not-a-fan.html",
-	      	
-			"content_html": "<p>Not a fan of Microsoft, but they did not ruin Minecraft.</p>\n",
-			"date_published": "2018-06-04T09:05:30-05:00",
-			"url": "https://wilson.micro.blog/2018/06/04/not-a-fan.html"
 		}
 		
 	]
