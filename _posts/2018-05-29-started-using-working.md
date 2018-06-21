@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-28 20:45:51 -0500
+date: 2018-05-28 21:45:51 -0400
 guid: http://wilson.micro.blog/2018/05/29/started-using-working.html
 ---
 Started using Working Copy in ernest today. Got to use it, at the pool, while the kids swam. I am really impressed with it.
