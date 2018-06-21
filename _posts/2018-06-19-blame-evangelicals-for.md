@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-18 20:26:56 -0500
+date: 2018-06-18 21:26:56 -0400
 guid: http://wilson.micro.blog/2018/06/19/blame-evangelicals-for.html
 ---
 [Blame Evangelicals for the Decline in Christian Faith]
