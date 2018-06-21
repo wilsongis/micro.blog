@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-26 18:19:06 -0500
+date: 2018-03-26 19:19:06 -0400
 guid: http://wilson.micro.blog/2018/03/26/toast-squirrel.html
 ---
 Toast Squirrel!
