@@ -34,7 +34,7 @@ github_username: "wilsongis"
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "US/Indiana-Starke"
+timezone: "US/Michigan"
 site_id: "3333"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
