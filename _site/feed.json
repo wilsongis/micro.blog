@@ -6,10 +6,26 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/21/011508.html",
+	      	
+			"content_html": "<p><img src=\"http://wilson.micro.blog/uploads/2018/e0c464eaf7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-20T21:15:08-04:00",
+			"url": "https://wilson.micro.blog/2018/06/20/011508.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/21/011310.html",
+	      	
+			"content_html": "<p><img src=\"http://wilson.micro.blog/uploads/2018/d76d755f2d.jpg\" width=\"600\" height=\"600\" /><img src=\"http://wilson.micro.blog/uploads/2018/1665b7a764.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-20T21:13:10-04:00",
+			"url": "https://wilson.micro.blog/2018/06/20/011310.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/19/blame-evangelicals-for.html",
 	      	
 			"content_html": "<p>[Blame Evangelicals for the Decline in Christian Faith]\n(https://www.thedailybeast.com/blame-evangelicals-for-the-decline-in-christian-faith?source=articles&amp;via=rss)</p>\n",
-			"date_published": "2018-06-18T20:26:56-05:00",
+			"date_published": "2018-06-18T21:26:56-04:00",
 			"url": "https://wilson.micro.blog/2018/06/18/blame-evangelicals-for.html"
 		},
 		
@@ -17,7 +33,7 @@
 			"id": "http://wilson.micro.blog/2018/06/17/my-daughter-my.html",
 	      	
 			"content_html": "<p>My daughter. My bestest fishing buddy.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/2ff4d29e3e.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-06-17T16:37:03-05:00",
+			"date_published": "2018-06-17T17:37:03-04:00",
 			"url": "https://wilson.micro.blog/2018/06/17/my-daughter-my.html"
 		},
 		
@@ -25,7 +41,7 @@
 			"id": "http://wilson.micro.blog/2018/06/17/my-son-i.html",
 	      	
 			"content_html": "<p>My son. I could not be more proud of him.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/6ab3355e73.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-17T12:22:36-05:00",
+			"date_published": "2018-06-17T13:22:36-04:00",
 			"url": "https://wilson.micro.blog/2018/06/17/my-son-i.html"
 		},
 		
@@ -33,7 +49,7 @@
 			"id": "http://wilson.micro.blog/2018/06/17/wwwnytimescom-opinion-seizing.html",
 	      	
 			"content_html": "<p><a href=\"http://www.nytimes.com/2018/06/14/opinion/children-parents-asylum-immigration.html\">www.nytimes.com</a></p>\n\n<blockquote>\n  <table>\n    <tbody>\n      <tr>\n        <td>Opinion</td>\n        <td>Seizing Children From Parents at the Border Is Immoral. Here’s What We Can Do.</td>\n      </tr>\n    </tbody>\n  </table>\n</blockquote>\n",
-			"date_published": "2018-06-17T11:47:00-05:00",
+			"date_published": "2018-06-17T12:47:00-04:00",
 			"url": "https://wilson.micro.blog/2018/06/17/wwwnytimescom-opinion-seizing.html"
 		},
 		
@@ -41,23 +57,23 @@
 			"id": "http://wilson.micro.blog/2018/06/17/tomorrow-i-am.html",
 	      	
 			"content_html": "<p>Tomorrow I am going to need to figure out how to calculate the confidence interval of a contrast using the t statistic.</p>\n",
-			"date_published": "2018-06-16T23:58:00-05:00",
-			"url": "https://wilson.micro.blog/2018/06/16/tomorrow-i-am.html"
+			"date_published": "2018-06-17T00:58:00-04:00",
+			"url": "https://wilson.micro.blog/2018/06/17/tomorrow-i-am.html"
 		},
 		
 		{
 			"id": "http://wilson.micro.blog/2018/06/17/had-my-first.html",
 	      	
 			"content_html": "<p>Had my first experience with a float tank today. It took me a little while to get used to it, but once I did it was a great experience.</p>\n",
-			"date_published": "2018-06-16T23:51:47-05:00",
-			"url": "https://wilson.micro.blog/2018/06/16/had-my-first.html"
+			"date_published": "2018-06-17T00:51:47-04:00",
+			"url": "https://wilson.micro.blog/2018/06/17/had-my-first.html"
 		},
 		
 		{
 			"id": "http://wilson.micro.blog/2018/06/16/as-a-fathers.html",
 	      	
 			"content_html": "<p>As a Father’s day gift, I have an hour session in a float tank. It is really different for me, but I am looking forward to it.</p>\n",
-			"date_published": "2018-06-16T10:44:15-05:00",
+			"date_published": "2018-06-16T11:44:15-04:00",
 			"url": "https://wilson.micro.blog/2018/06/16/as-a-fathers.html"
 		},
 		
@@ -65,7 +81,7 @@
 			"id": "http://wilson.micro.blog/2018/06/16/why-would-i.html",
 	      	
 			"content_html": "<p>Why would I not just buy <a href=\"https://twitter.com/mashable/status/1007791618294857728\">seeds</a>?</p>\n",
-			"date_published": "2018-06-15T20:14:49-05:00",
+			"date_published": "2018-06-15T21:14:49-04:00",
 			"url": "https://wilson.micro.blog/2018/06/15/why-would-i.html"
 		},
 		
@@ -73,7 +89,7 @@
 			"id": "http://wilson.micro.blog/2018/06/15/today-is-my.html",
 	      	
 			"content_html": "<p>Today is my 16th wedding anniversary. Looking forward to many more years together. Need to make sure to acknowledge that I am lucky Tara puts up with me.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/8e308dd3ca.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-06-15T10:41:19-05:00",
+			"date_published": "2018-06-15T11:41:19-04:00",
 			"url": "https://wilson.micro.blog/2018/06/15/today-is-my.html"
 		},
 		
@@ -81,7 +97,7 @@
 			"id": "http://wilson.micro.blog/2018/06/15/014151.html",
 	      	
 			"content_html": "<p>Working on a MatLab class on Udemy. Got to do my HW.</p>\n",
-			"date_published": "2018-06-14T20:41:51-05:00",
+			"date_published": "2018-06-14T21:41:51-04:00",
 			"url": "https://wilson.micro.blog/2018/06/14/014151.html"
 		},
 		
@@ -89,7 +105,7 @@
 			"id": "http://wilson.micro.blog/2018/06/14/i-want-to.html",
 	      	
 			"content_html": "<p>I want to do desktop and web apps. Elixir or Go, which one do I learn?</p>\n",
-			"date_published": "2018-06-14T11:30:20-05:00",
+			"date_published": "2018-06-14T12:30:20-04:00",
 			"url": "https://wilson.micro.blog/2018/06/14/i-want-to.html"
 		},
 		
@@ -97,7 +113,7 @@
 			"id": "http://wilson.micro.blog/2018/06/13/still-looking-for.html",
 	      	
 			"content_html": "<p>Still looking for a replacement for MS Access custom DB. I am looking at Node, Elixir, and Go. Anyone got advise?</p>\n",
-			"date_published": "2018-06-13T09:12:31-05:00",
+			"date_published": "2018-06-13T10:12:31-04:00",
 			"url": "https://wilson.micro.blog/2018/06/13/still-looking-for.html"
 		},
 		
@@ -105,7 +121,7 @@
 			"id": "http://wilson.micro.blog/2018/06/12/when-in-need.html",
 	      	
 			"content_html": "<p>When in need of a quick DB app for windows-based small offices, I have relied on MS Access for years. I am looking for a replacement. Can anyone recommend a programming language or other replacement to build forms and store and query data (local storage - small server)?</p>\n",
-			"date_published": "2018-06-12T16:38:53-05:00",
+			"date_published": "2018-06-12T17:38:53-04:00",
 			"url": "https://wilson.micro.blog/2018/06/12/when-in-need.html"
 		},
 		
@@ -113,7 +129,7 @@
 			"id": "http://wilson.micro.blog/2018/06/12/internet-was-out.html",
 	      	
 			"content_html": "<p>Internet was out when I got home. Got out a sewing kit and fixed some buttons.</p>\n",
-			"date_published": "2018-06-11T19:35:38-05:00",
+			"date_published": "2018-06-11T20:35:38-04:00",
 			"url": "https://wilson.micro.blog/2018/06/11/internet-was-out.html"
 		},
 		
@@ -121,7 +137,7 @@
 			"id": "http://wilson.micro.blog/2018/06/11/hit-inbox-zero.html",
 	      	
 			"content_html": "<p>Hit Inbox Zero</p>\n",
-			"date_published": "2018-06-11T12:11:03-05:00",
+			"date_published": "2018-06-11T13:11:03-04:00",
 			"url": "https://wilson.micro.blog/2018/06/11/hit-inbox-zero.html"
 		},
 		
@@ -129,7 +145,7 @@
 			"id": "http://wilson.micro.blog/2018/06/11/trying-to-tie.html",
 	      	
 			"content_html": "<p>Trying to tie up loose ends on a project today. It will be nice to have it behind me.</p>\n",
-			"date_published": "2018-06-11T11:31:23-05:00",
+			"date_published": "2018-06-11T12:31:23-04:00",
 			"url": "https://wilson.micro.blog/2018/06/11/trying-to-tie.html"
 		},
 		
@@ -137,7 +153,7 @@
 			"id": "http://wilson.micro.blog/2018/06/11/another-sight-while.html",
 	      	
 			"content_html": "<p>Another sight while fishing. Smallest fawn I have ever seen.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/168299dc54.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-10T21:08:35-05:00",
+			"date_published": "2018-06-10T22:08:35-04:00",
 			"url": "https://wilson.micro.blog/2018/06/10/another-sight-while.html"
 		},
 		
@@ -145,7 +161,7 @@
 			"id": "http://wilson.micro.blog/2018/06/11/saw-this-while.html",
 	      	
 			"content_html": "<p>Saw this while fishing. Didn’t catch anything but  getting out was worth it.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/a5c2bef621.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-10T21:07:42-05:00",
+			"date_published": "2018-06-10T22:07:42-04:00",
 			"url": "https://wilson.micro.blog/2018/06/10/saw-this-while.html"
 		},
 		
@@ -153,7 +169,7 @@
 			"id": "http://wilson.micro.blog/2018/06/11/anyone-use-netlify.html",
 	      	
 			"content_html": "<p>Anyone use Netlify or have any thoughts on it? I am thinking of leaving my host. It would be a cost savings.</p>\n",
-			"date_published": "2018-06-10T19:53:21-05:00",
+			"date_published": "2018-06-10T20:53:21-04:00",
 			"url": "https://wilson.micro.blog/2018/06/10/anyone-use-netlify.html"
 		},
 		
@@ -161,7 +177,7 @@
 			"id": "http://wilson.micro.blog/2018/06/10/i-try-not.html",
 	      	
 			"content_html": "<p>I try not to work at home but I am so far behind, that I need to make an exception today. At least I think I will be in good shape tomorrow at work.</p>\n",
-			"date_published": "2018-06-10T14:24:43-05:00",
+			"date_published": "2018-06-10T15:24:43-04:00",
 			"url": "https://wilson.micro.blog/2018/06/10/i-try-not.html"
 		},
 		
@@ -169,7 +185,7 @@
 			"id": "http://wilson.micro.blog/2018/06/10/sunset-over-kentucky.html",
 	      	
 			"content_html": "<p>Sunset over Kentucky Lake</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/499dc40c86.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-09T22:35:46-05:00",
+			"date_published": "2018-06-09T23:35:46-04:00",
 			"url": "https://wilson.micro.blog/2018/06/09/sunset-over-kentucky.html"
 		},
 		
@@ -177,7 +193,7 @@
 			"id": "http://wilson.micro.blog/2018/06/10/use-of-drones.html",
 	      	
 			"content_html": "<p>Use of <a href=\"http://www.geospatialworld.net/blogs/an-aerial-view-of-the-future-drones-in-construction/\">Drones in Construction</a></p>\n",
-			"date_published": "2018-06-09T22:16:12-05:00",
+			"date_published": "2018-06-09T23:16:12-04:00",
 			"url": "https://wilson.micro.blog/2018/06/09/use-of-drones.html"
 		},
 		
@@ -185,24 +201,8 @@
 			"id": "http://wilson.micro.blog/2018/06/08/155746.html",
 	      	
 			"content_html": "<p>Working on a GIS project this morning. I am really enjoying the constant wait times every change I make in ArcGIS. They are not long enough to do something productive but are perfectly long enough to make me bitter.</p>\n",
-			"date_published": "2018-06-08T10:57:46-05:00",
+			"date_published": "2018-06-08T11:57:46-04:00",
 			"url": "https://wilson.micro.blog/2018/06/08/155746.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/08/found-a-use.html",
-	      	
-			"content_html": "<p>Found a use for iBooks today. I am using it as a PDF reader/storage for a research project. Reading-wise, I like it more than Papers on my iPad.</p>\n",
-			"date_published": "2018-06-07T21:43:20-05:00",
-			"url": "https://wilson.micro.blog/2018/06/07/found-a-use.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/07/jake-tapper-is.html",
-	      	
-			"content_html": "<p><a href=\"https://m.huffpost.com/us/entry/us_5b16fe15e4b0734a99386f25/amp\">Jake Tapper</a> is my hero. I could not agree more with him.</p>\n",
-			"date_published": "2018-06-06T22:18:20-05:00",
-			"url": "https://wilson.micro.blog/2018/06/06/jake-tapper-is.html"
 		}
 		
 	]
