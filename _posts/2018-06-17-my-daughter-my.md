@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-17 16:37:03 -0500
+date: 2018-06-17 17:37:03 -0400
 guid: http://wilson.micro.blog/2018/06/17/my-daughter-my.html
 ---
 My daughter. My bestest fishing buddy. 
