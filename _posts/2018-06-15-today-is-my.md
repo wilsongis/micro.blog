@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-15 10:41:19 -0500
+date: 2018-06-15 11:41:19 -0400
 guid: http://wilson.micro.blog/2018/06/15/today-is-my.html
 ---
 Today is my 16th wedding anniversary. Looking forward to many more years together. Need to make sure to acknowledge that I am lucky Tara puts up with me. 
