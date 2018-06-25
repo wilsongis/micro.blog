@@ -4,8 +4,19 @@
     <title>Michael J Wilson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/wilsongis&quot;&gt;@wilsongis on Micro.blog&lt;/a&gt;.</description>
     <link>https://wilson.micro.blog/</link>
-    <pubDate>Sat, 23 Jun 2018 13:52:53 -0400</pubDate>
-    <lastBuildDate>Sat, 23 Jun 2018 13:52:53 -0400</lastBuildDate>
+    <pubDate>Mon, 25 Jun 2018 10:59:33 -0400</pubDate>
+    <lastBuildDate>Mon, 25 Jun 2018 10:59:33 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This rang true to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://wilson.micro.blog/uploads/2018/2f44fa2ce5.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jun 2018 10:59:31 -0400</pubDate>
+        <link>https://wilson.micro.blog/2018/06/25/this-rang-true.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/25/this-rang-true.html</guid>
+      </item>
     
       <item>
       	
@@ -478,15 +489,6 @@
         <pubDate>Wed, 30 May 2018 14:52:51 -0400</pubDate>
         <link>https://wilson.micro.blog/2018/05/30/i-need-to.html</link>
         <guid isPermaLink="true">http://wilson.micro.blog/2018/05/30/i-need-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Here is my &lt;a href=&quot;http://minimalworkflow.com/blog/2018/05/29/linking-microblog/&quot;&gt;post&lt;/a&gt; about how I setup Hugo to work with Micro.Blog. I am still working on my site theme.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 May 2018 22:33:28 -0400</pubDate>
-        <link>https://wilson.micro.blog/2018/05/29/here-is-my.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/05/30/here-is-my.html</guid>
       </item>
     
   </channel>
