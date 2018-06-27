@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/27/currently-taking-a.html",
+	      	
+			"content_html": "<p>Currently taking a class on SPSS. It is revetting.</p>\n",
+			"date_published": "2018-06-26T20:41:09-04:00",
+			"url": "https://wilson.micro.blog/2018/06/26/currently-taking-a.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/25/as-a-gis.html",
+	      	
+			"content_html": "<p>As a GIS professional, the inability of the mob to find facts and distinguish geography is disturbing. <a href=\"https://www.washingtonpost.com/news/business/wp/2018/06/25/sarah-sanders-didnt-eat-at-that-red-hen-or-that-one/?utm_term=.2618ef5b61f0\">This is what happens when your restaurant is also called ‘Red Hen’</a></p>\n",
+			"date_published": "2018-06-25T19:31:18-04:00",
+			"url": "https://wilson.micro.blog/2018/06/25/as-a-gis.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/25/this-rang-true.html",
 	      	
 			"content_html": "<p>This rang true to me.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/2f44fa2ce5.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Another sight while fishing. Smallest fawn I have ever seen.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/168299dc54.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-10T22:08:35-04:00",
 			"url": "https://wilson.micro.blog/2018/06/10/another-sight-while.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/11/saw-this-while.html",
-	      	
-			"content_html": "<p>Saw this while fishing. Didn’t catch anything but  getting out was worth it.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/a5c2bef621.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-10T22:07:42-04:00",
-			"url": "https://wilson.micro.blog/2018/06/10/saw-this-while.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/11/anyone-use-netlify.html",
-	      	
-			"content_html": "<p>Anyone use Netlify or have any thoughts on it? I am thinking of leaving my host. It would be a cost savings.</p>\n",
-			"date_published": "2018-06-10T20:53:21-04:00",
-			"url": "https://wilson.micro.blog/2018/06/10/anyone-use-netlify.html"
 		}
 		
 	]
