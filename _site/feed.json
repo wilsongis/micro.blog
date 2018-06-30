@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/06/30/spent-the-morning.html",
+	      	
+			"content_html": "<p>Spent the morning doing my advanced linear programming class. I am hoping I am understanding but I am not positive. Sometime this evening I will need to catch up on my spss class.</p>\n",
+			"date_published": "2018-06-30T14:45:02-04:00",
+			"url": "https://wilson.micro.blog/2018/06/30/spent-the-morning.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/29/nothing-makes-me.html",
 	      	
 			"content_html": "<p>Nothing makes me more bitter than some random config issue with a postgresql database.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I want to do desktop and web apps. Elixir or Go, which one do I learn?</p>\n",
 			"date_published": "2018-06-14T12:30:20-04:00",
 			"url": "https://wilson.micro.blog/2018/06/14/i-want-to.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/13/still-looking-for.html",
-	      	
-			"content_html": "<p>Still looking for a replacement for MS Access custom DB. I am looking at Node, Elixir, and Go. Anyone got advise?</p>\n",
-			"date_published": "2018-06-13T10:12:31-04:00",
-			"url": "https://wilson.micro.blog/2018/06/13/still-looking-for.html"
 		}
 		
 	]
