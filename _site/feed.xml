@@ -4,8 +4,17 @@
     <title>Michael J Wilson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/wilsongis&quot;&gt;@wilsongis on Micro.blog&lt;/a&gt;.</description>
     <link>https://wilson.micro.blog/</link>
-    <pubDate>Sat, 30 Jun 2018 03:48:34 -0400</pubDate>
-    <lastBuildDate>Sat, 30 Jun 2018 03:48:34 -0400</lastBuildDate>
+    <pubDate>Sat, 30 Jun 2018 14:45:04 -0400</pubDate>
+    <lastBuildDate>Sat, 30 Jun 2018 14:45:04 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Spent the morning doing my advanced linear programming class. I am hoping I am understanding but I am not positive. Sometime this evening I will need to catch up on my spss class.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 14:45:02 -0400</pubDate>
+        <link>https://wilson.micro.blog/2018/06/30/spent-the-morning.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/30/spent-the-morning.html</guid>
+      </item>
     
       <item>
       	
@@ -480,15 +489,6 @@
         <pubDate>Fri, 01 Jun 2018 21:43:51 -0400</pubDate>
         <link>https://wilson.micro.blog/2018/06/01/sunset.html</link>
         <guid isPermaLink="true">http://wilson.micro.blog/2018/06/02/sunset.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Since I started using Bobby, an iOS app to track subscriptions, I am thinking of quiting my webhost. I believe that I could get by with netlify. I have used MDDHosting for years, and love their service but I could save some money.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Jun 2018 19:38:41 -0400</pubDate>
-        <link>https://wilson.micro.blog/2018/06/01/since-i-started.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/01/since-i-started.html</guid>
       </item>
     
   </channel>
