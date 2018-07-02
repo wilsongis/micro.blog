@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/02/we-now-have.html",
+	      	
+			"content_html": "<p>We now have a 3D printer at the office. Looking forward to seeing how we can use it with GIS.</p>\n",
+			"date_published": "2018-07-02T10:48:00-04:00",
+			"url": "https://wilson.micro.blog/2018/07/02/we-now-have.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/06/30/i-am-listening.html",
+	      	
+			"content_html": "<p>I am listening to a lecture on advanced linear programming and so far it is a series of equations. My mind does not work well with just equations, I really need to see the equations in use.</p>\n",
+			"date_published": "2018-06-30T18:03:53-04:00",
+			"url": "https://wilson.micro.blog/2018/06/30/i-am-listening.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/06/30/spent-the-morning.html",
 	      	
 			"content_html": "<p>Spent the morning doing my advanced linear programming class. I am hoping I am understanding but I am not positive. Sometime this evening I will need to catch up on my spss class.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Today is my 16th wedding anniversary. Looking forward to many more years together. Need to make sure to acknowledge that I am lucky Tara puts up with me.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/8e308dd3ca.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-06-15T11:41:19-04:00",
 			"url": "https://wilson.micro.blog/2018/06/15/today-is-my.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/15/014151.html",
-	      	
-			"content_html": "<p>Working on a MatLab class on Udemy. Got to do my HW.</p>\n",
-			"date_published": "2018-06-14T21:41:51-04:00",
-			"url": "https://wilson.micro.blog/2018/06/14/014151.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/14/i-want-to.html",
-	      	
-			"content_html": "<p>I want to do desktop and web apps. Elixir or Go, which one do I learn?</p>\n",
-			"date_published": "2018-06-14T12:30:20-04:00",
-			"url": "https://wilson.micro.blog/2018/06/14/i-want-to.html"
 		}
 		
 	]
