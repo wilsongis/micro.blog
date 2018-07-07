@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/07/feel-like-i.html",
+	      	
+			"content_html": "<p>Feel like I have not written much lately. Really feel like I am doing a lot of juggling. Need to slow down, relax and wrote.</p>\n",
+			"date_published": "2018-07-07T00:20:42-04:00",
+			"url": "https://wilson.micro.blog/2018/07/07/feel-like-i.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/04/catching-up-on.html",
+	      	
+			"content_html": "<p>Catching up on my Pocket reading list - <a href=\"https://www.the-tls.co.uk/articles/public/thomas-bayes-science-crisis/\">Thomas Bayes and the crisis in science</a></p>\n",
+			"date_published": "2018-07-04T17:10:48-04:00",
+			"url": "https://wilson.micro.blog/2018/07/04/catching-up-on.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/04/burgers-and-dogs.html",
+	      	
+			"content_html": "<p>Burgers and Dogs for lunch.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/4ccc13a12e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-04T13:03:26-04:00",
+			"url": "https://wilson.micro.blog/2018/07/04/burgers-and-dogs.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/04/hoping-for-a.html",
 	      	
 			"content_html": "<p>Hoping for a good day off today. As always, July 4th is “Ice Cream for Dinner Day”. We are all looking forward to dinner tonight.</p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>My son. I could not be more proud of him.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/6ab3355e73.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-17T13:22:36-04:00",
 			"url": "https://wilson.micro.blog/2018/06/17/my-son-i.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/17/wwwnytimescom-opinion-seizing.html",
-	      	
-			"content_html": "<p><a href=\"http://www.nytimes.com/2018/06/14/opinion/children-parents-asylum-immigration.html\">www.nytimes.com</a></p>\n\n<blockquote>\n  <table>\n    <tbody>\n      <tr>\n        <td>Opinion</td>\n        <td>Seizing Children From Parents at the Border Is Immoral. Here’s What We Can Do.</td>\n      </tr>\n    </tbody>\n  </table>\n</blockquote>\n",
-			"date_published": "2018-06-17T12:47:00-04:00",
-			"url": "https://wilson.micro.blog/2018/06/17/wwwnytimescom-opinion-seizing.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/17/tomorrow-i-am.html",
-	      	
-			"content_html": "<p>Tomorrow I am going to need to figure out how to calculate the confidence interval of a contrast using the t statistic.</p>\n",
-			"date_published": "2018-06-17T00:58:00-04:00",
-			"url": "https://wilson.micro.blog/2018/06/17/tomorrow-i-am.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/17/had-my-first.html",
-	      	
-			"content_html": "<p>Had my first experience with a float tank today. It took me a little while to get used to it, but once I did it was a great experience.</p>\n",
-			"date_published": "2018-06-17T00:51:47-04:00",
-			"url": "https://wilson.micro.blog/2018/06/17/had-my-first.html"
 		}
 		
 	]
