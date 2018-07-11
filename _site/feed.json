@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/11/saved-me-a.html",
+	      	
+			"content_html": "<p>Saved me a lot of time this morning: <a href=\"http://www.burdgis.com/blog/view/exporting-multiple-tables-from-a-geodatabase-using/\">Exporting multiple tables from a geodatabase using Modelbuilder in ArcGIS</a></p>\n",
+			"date_published": "2018-07-11T10:26:35-04:00",
+			"url": "https://wilson.micro.blog/2018/07/11/saved-me-a.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/11/just-ran-across.html",
+	      	
+			"content_html": "<p>Just ran across a link for <a href=\"https://dev.tube\">Dev.tube</a>. I might need to give it a try.</p>\n",
+			"date_published": "2018-07-11T08:25:36-04:00",
+			"url": "https://wilson.micro.blog/2018/07/11/just-ran-across.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/11/i-have-now.html",
 	      	
 			"content_html": "<p>I have now installed every stats software I could find. Now I need to find 1 that will help me with design of experiments.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Getting back to work today. Trying to work on large datasets via VPN. It is very slow going.</p>\n",
 			"date_published": "2018-06-27T10:18:50-04:00",
 			"url": "https://wilson.micro.blog/2018/06/27/getting-back-to.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/27/currently-taking-a.html",
-	      	
-			"content_html": "<p>Currently taking a class on SPSS. It is revetting.</p>\n",
-			"date_published": "2018-06-26T20:41:09-04:00",
-			"url": "https://wilson.micro.blog/2018/06/26/currently-taking-a.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/25/as-a-gis.html",
-	      	
-			"content_html": "<p>As a GIS professional, the inability of the mob to find facts and distinguish geography is disturbing. <a href=\"https://www.washingtonpost.com/news/business/wp/2018/06/25/sarah-sanders-didnt-eat-at-that-red-hen-or-that-one/?utm_term=.2618ef5b61f0\">This is what happens when your restaurant is also called ‘Red Hen’</a></p>\n",
-			"date_published": "2018-06-25T19:31:18-04:00",
-			"url": "https://wilson.micro.blog/2018/06/25/as-a-gis.html"
 		}
 		
 	]
