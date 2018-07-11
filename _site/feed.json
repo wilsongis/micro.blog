@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/11/i-have-now.html",
+	      	
+			"content_html": "<p>I have now installed every stats software I could find. Now I need to find 1 that will help me with design of experiments.</p>\n",
+			"date_published": "2018-07-10T23:41:21-04:00",
+			"url": "https://wilson.micro.blog/2018/07/10/i-have-now.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/11/feel-as-i.html",
+	      	
+			"content_html": "<p>Feel as I am watching a lecture on the design of experiments, that I have a toolbox with a bunch of tools. I understand the individual tools but I don’t understand how to use the tools together.</p>\n",
+			"date_published": "2018-07-10T20:36:10-04:00",
+			"url": "https://wilson.micro.blog/2018/07/10/feel-as-i.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/11/wish-i-had.html",
+	      	
+			"content_html": "<p>Wish I had a “magic” app for the design of experiments.</p>\n",
+			"date_published": "2018-07-10T20:33:50-04:00",
+			"url": "https://wilson.micro.blog/2018/07/10/wish-i-had.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/10/starting-to-work.html",
+	      	
+			"content_html": "<p>Starting to work on extending the new web map. Looking to add quality of life information.</p>\n",
+			"date_published": "2018-07-10T14:22:34-04:00",
+			"url": "https://wilson.micro.blog/2018/07/10/starting-to-work.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/10/hosting-a-gis.html",
+	      	
+			"content_html": "<p>Hosting a GIS Users Group meeting today. Hoping for a good turn out.</p>\n",
+			"date_published": "2018-07-10T10:45:55-04:00",
+			"url": "https://wilson.micro.blog/2018/07/10/hosting-a-gis.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/08/i-have-literally.html",
 	      	
 			"content_html": "<p>I have literally spent the last 7 hours working on a single test question that I know I did not get correct. My self-esteem and confidence is at an all-time low.</p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>As a GIS professional, the inability of the mob to find facts and distinguish geography is disturbing. <a href=\"https://www.washingtonpost.com/news/business/wp/2018/06/25/sarah-sanders-didnt-eat-at-that-red-hen-or-that-one/?utm_term=.2618ef5b61f0\">This is what happens when your restaurant is also called ‘Red Hen’</a></p>\n",
 			"date_published": "2018-06-25T19:31:18-04:00",
 			"url": "https://wilson.micro.blog/2018/06/25/as-a-gis.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/25/this-rang-true.html",
-	      	
-			"content_html": "<p>This rang true to me.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/2f44fa2ce5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-25T10:59:31-04:00",
-			"url": "https://wilson.micro.blog/2018/06/25/this-rang-true.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/23/we-on-an.html",
-	      	
-			"content_html": "<p>We on an vacation and I just got the news yesterday morning that my dog passed away. I can honestly say that I have lost one of my best friends.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/599227b37b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-23T13:52:32-04:00",
-			"url": "https://wilson.micro.blog/2018/06/23/we-on-an.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/22/000637.html",
-	      	
-			"content_html": "<p><img src=\"http://wilson.micro.blog/uploads/2018/60312eaa74.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-21T20:06:37-04:00",
-			"url": "https://wilson.micro.blog/2018/06/21/000637.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/21/we-have-large.html",
-	      	
-			"content_html": "<p>We have large heads.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/95f574c975.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-21T11:05:51-04:00",
-			"url": "https://wilson.micro.blog/2018/06/21/we-have-large.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/21/011508.html",
-	      	
-			"content_html": "<p><img src=\"http://wilson.micro.blog/uploads/2018/e0c464eaf7.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-20T21:15:08-04:00",
-			"url": "https://wilson.micro.blog/2018/06/20/011508.html"
 		}
 		
 	]
