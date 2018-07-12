@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-04 13:03:26 -0400
+date: 2018-07-04 12:03:26 -0500
 guid: http://wilson.micro.blog/2018/07/04/burgers-and-dogs.html
 ---
 Burgers and Dogs for lunch. 
