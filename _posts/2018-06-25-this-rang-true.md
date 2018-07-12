@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-25 10:59:31 -0400
+date: 2018-06-25 09:59:31 -0500
 guid: http://wilson.micro.blog/2018/06/25/this-rang-true.html
 ---
 This rang true to me. 
