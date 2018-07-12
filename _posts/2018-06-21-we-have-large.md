@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-21 11:05:51 -0400
+date: 2018-06-21 10:05:51 -0500
 guid: http://wilson.micro.blog/2018/06/21/we-have-large.html
 ---
 We have large heads. 
