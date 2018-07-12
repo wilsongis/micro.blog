@@ -6,10 +6,26 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/12/finally-after-slides.html",
+	      	
+			"content_html": "<p>Finally after 101 slides in a lecture, I have a numerical example rather than just formulas.</p>\n",
+			"date_published": "2018-07-11T19:17:12-05:00",
+			"url": "https://wilson.micro.blog/2018/07/11/finally-after-slides.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/07/12/playing-with-iterm.html",
+	      	
+			"content_html": "<p>Playing with iTerm2. Found an interesting article - <a href=\"https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961\">Configuration of a beautiful (efficient) terminal and prompt on OSX in 7minutes</a></p>\n",
+			"date_published": "2018-07-11T19:15:47-05:00",
+			"url": "https://wilson.micro.blog/2018/07/11/playing-with-iterm.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/11/saved-me-a.html",
 	      	
 			"content_html": "<p>Saved me a lot of time this morning: <a href=\"http://www.burdgis.com/blog/view/exporting-multiple-tables-from-a-geodatabase-using/\">Exporting multiple tables from a geodatabase using Modelbuilder in ArcGIS</a></p>\n",
-			"date_published": "2018-07-11T10:26:35-04:00",
+			"date_published": "2018-07-11T09:26:35-05:00",
 			"url": "https://wilson.micro.blog/2018/07/11/saved-me-a.html"
 		},
 		
@@ -17,7 +33,7 @@
 			"id": "http://wilson.micro.blog/2018/07/11/just-ran-across.html",
 	      	
 			"content_html": "<p>Just ran across a link for <a href=\"https://dev.tube\">Dev.tube</a>. I might need to give it a try.</p>\n",
-			"date_published": "2018-07-11T08:25:36-04:00",
+			"date_published": "2018-07-11T07:25:36-05:00",
 			"url": "https://wilson.micro.blog/2018/07/11/just-ran-across.html"
 		},
 		
@@ -25,7 +41,7 @@
 			"id": "http://wilson.micro.blog/2018/07/11/i-have-now.html",
 	      	
 			"content_html": "<p>I have now installed every stats software I could find. Now I need to find 1 that will help me with design of experiments.</p>\n",
-			"date_published": "2018-07-10T23:41:21-04:00",
+			"date_published": "2018-07-10T22:41:21-05:00",
 			"url": "https://wilson.micro.blog/2018/07/10/i-have-now.html"
 		},
 		
@@ -33,7 +49,7 @@
 			"id": "http://wilson.micro.blog/2018/07/11/feel-as-i.html",
 	      	
 			"content_html": "<p>Feel as I am watching a lecture on the design of experiments, that I have a toolbox with a bunch of tools. I understand the individual tools but I don’t understand how to use the tools together.</p>\n",
-			"date_published": "2018-07-10T20:36:10-04:00",
+			"date_published": "2018-07-10T19:36:10-05:00",
 			"url": "https://wilson.micro.blog/2018/07/10/feel-as-i.html"
 		},
 		
@@ -41,7 +57,7 @@
 			"id": "http://wilson.micro.blog/2018/07/11/wish-i-had.html",
 	      	
 			"content_html": "<p>Wish I had a “magic” app for the design of experiments.</p>\n",
-			"date_published": "2018-07-10T20:33:50-04:00",
+			"date_published": "2018-07-10T19:33:50-05:00",
 			"url": "https://wilson.micro.blog/2018/07/10/wish-i-had.html"
 		},
 		
@@ -49,7 +65,7 @@
 			"id": "http://wilson.micro.blog/2018/07/10/starting-to-work.html",
 	      	
 			"content_html": "<p>Starting to work on extending the new web map. Looking to add quality of life information.</p>\n",
-			"date_published": "2018-07-10T14:22:34-04:00",
+			"date_published": "2018-07-10T13:22:34-05:00",
 			"url": "https://wilson.micro.blog/2018/07/10/starting-to-work.html"
 		},
 		
@@ -57,7 +73,7 @@
 			"id": "http://wilson.micro.blog/2018/07/10/hosting-a-gis.html",
 	      	
 			"content_html": "<p>Hosting a GIS Users Group meeting today. Hoping for a good turn out.</p>\n",
-			"date_published": "2018-07-10T10:45:55-04:00",
+			"date_published": "2018-07-10T09:45:55-05:00",
 			"url": "https://wilson.micro.blog/2018/07/10/hosting-a-gis.html"
 		},
 		
@@ -65,15 +81,15 @@
 			"id": "http://wilson.micro.blog/2018/07/08/i-have-literally.html",
 	      	
 			"content_html": "<p>I have literally spent the last 7 hours working on a single test question that I know I did not get correct. My self-esteem and confidence is at an all-time low.</p>\n",
-			"date_published": "2018-07-08T00:07:44-04:00",
-			"url": "https://wilson.micro.blog/2018/07/08/i-have-literally.html"
+			"date_published": "2018-07-07T23:07:44-05:00",
+			"url": "https://wilson.micro.blog/2018/07/07/i-have-literally.html"
 		},
 		
 		{
 			"id": "http://wilson.micro.blog/2018/07/07/182754.html",
 	      	
 			"content_html": "<p>Spent some time on the lake this morning.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/6cf9f6bb8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-07T14:27:54-04:00",
+			"date_published": "2018-07-07T13:27:54-05:00",
 			"url": "https://wilson.micro.blog/2018/07/07/182754.html"
 		},
 		
@@ -81,7 +97,7 @@
 			"id": "http://wilson.micro.blog/2018/07/07/when-did-esri.html",
 	      	
 			"content_html": "<p>When did ESRI launch the “Arcade” scripting language and does it work on desktop?</p>\n",
-			"date_published": "2018-07-07T09:17:46-04:00",
+			"date_published": "2018-07-07T08:17:46-05:00",
 			"url": "https://wilson.micro.blog/2018/07/07/when-did-esri.html"
 		},
 		
@@ -89,7 +105,7 @@
 			"id": "http://wilson.micro.blog/2018/07/07/i-really-like.html",
 	      	
 			"content_html": "<p>I really like the new Google News app but I noticed while on vacation that it was chewing through my data.</p>\n",
-			"date_published": "2018-07-07T09:16:34-04:00",
+			"date_published": "2018-07-07T08:16:34-05:00",
 			"url": "https://wilson.micro.blog/2018/07/07/i-really-like.html"
 		},
 		
@@ -97,15 +113,15 @@
 			"id": "http://wilson.micro.blog/2018/07/07/feel-like-i.html",
 	      	
 			"content_html": "<p>Feel like I have not written much lately. Really feel like I am doing a lot of juggling. Need to slow down, relax and wrote.</p>\n",
-			"date_published": "2018-07-07T00:20:42-04:00",
-			"url": "https://wilson.micro.blog/2018/07/07/feel-like-i.html"
+			"date_published": "2018-07-06T23:20:42-05:00",
+			"url": "https://wilson.micro.blog/2018/07/06/feel-like-i.html"
 		},
 		
 		{
 			"id": "http://wilson.micro.blog/2018/07/04/catching-up-on.html",
 	      	
 			"content_html": "<p>Catching up on my Pocket reading list - <a href=\"https://www.the-tls.co.uk/articles/public/thomas-bayes-science-crisis/\">Thomas Bayes and the crisis in science</a></p>\n",
-			"date_published": "2018-07-04T17:10:48-04:00",
+			"date_published": "2018-07-04T16:10:48-05:00",
 			"url": "https://wilson.micro.blog/2018/07/04/catching-up-on.html"
 		},
 		
@@ -113,7 +129,7 @@
 			"id": "http://wilson.micro.blog/2018/07/04/burgers-and-dogs.html",
 	      	
 			"content_html": "<p>Burgers and Dogs for lunch.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/4ccc13a12e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-04T13:03:26-04:00",
+			"date_published": "2018-07-04T12:03:26-05:00",
 			"url": "https://wilson.micro.blog/2018/07/04/burgers-and-dogs.html"
 		},
 		
@@ -121,7 +137,7 @@
 			"id": "http://wilson.micro.blog/2018/07/04/hoping-for-a.html",
 	      	
 			"content_html": "<p>Hoping for a good day off today. As always, July 4th is “Ice Cream for Dinner Day”. We are all looking forward to dinner tonight.</p>\n",
-			"date_published": "2018-07-04T11:33:46-04:00",
+			"date_published": "2018-07-04T10:33:46-05:00",
 			"url": "https://wilson.micro.blog/2018/07/04/hoping-for-a.html"
 		},
 		
@@ -129,7 +145,7 @@
 			"id": "http://wilson.micro.blog/2018/07/03/215111.html",
 	      	
 			"content_html": "<p>Working on a new webmap, based on the great work of others. i am now down to making color and style changes.</p>\n",
-			"date_published": "2018-07-03T17:51:11-04:00",
+			"date_published": "2018-07-03T16:51:11-05:00",
 			"url": "https://wilson.micro.blog/2018/07/03/215111.html"
 		},
 		
@@ -137,7 +153,7 @@
 			"id": "http://wilson.micro.blog/2018/07/02/looking-at-buying.html",
 	      	
 			"content_html": "<p>Looking at buying a new used car during my lunch break. Hoping to get out of here with a price asap.</p>\n",
-			"date_published": "2018-07-02T13:41:01-04:00",
+			"date_published": "2018-07-02T12:41:01-05:00",
 			"url": "https://wilson.micro.blog/2018/07/02/looking-at-buying.html"
 		},
 		
@@ -145,7 +161,7 @@
 			"id": "http://wilson.micro.blog/2018/07/02/we-now-have.html",
 	      	
 			"content_html": "<p>We now have a 3D printer at the office. Looking forward to seeing how we can use it with GIS.</p>\n",
-			"date_published": "2018-07-02T10:48:00-04:00",
+			"date_published": "2018-07-02T09:48:00-05:00",
 			"url": "https://wilson.micro.blog/2018/07/02/we-now-have.html"
 		},
 		
@@ -153,7 +169,7 @@
 			"id": "http://wilson.micro.blog/2018/06/30/i-am-listening.html",
 	      	
 			"content_html": "<p>I am listening to a lecture on advanced linear programming and so far it is a series of equations. My mind does not work well with just equations, I really need to see the equations in use.</p>\n",
-			"date_published": "2018-06-30T18:03:53-04:00",
+			"date_published": "2018-06-30T17:03:53-05:00",
 			"url": "https://wilson.micro.blog/2018/06/30/i-am-listening.html"
 		},
 		
@@ -161,7 +177,7 @@
 			"id": "http://wilson.micro.blog/2018/06/30/spent-the-morning.html",
 	      	
 			"content_html": "<p>Spent the morning doing my advanced linear programming class. I am hoping I am understanding but I am not positive. Sometime this evening I will need to catch up on my spss class.</p>\n",
-			"date_published": "2018-06-30T14:45:02-04:00",
+			"date_published": "2018-06-30T13:45:02-05:00",
 			"url": "https://wilson.micro.blog/2018/06/30/spent-the-morning.html"
 		},
 		
@@ -169,7 +185,7 @@
 			"id": "http://wilson.micro.blog/2018/06/29/nothing-makes-me.html",
 	      	
 			"content_html": "<p>Nothing makes me more bitter than some random config issue with a postgresql database.</p>\n",
-			"date_published": "2018-06-29T10:49:36-04:00",
+			"date_published": "2018-06-29T09:49:36-05:00",
 			"url": "https://wilson.micro.blog/2018/06/29/nothing-makes-me.html"
 		},
 		
@@ -177,7 +193,7 @@
 			"id": "http://wilson.micro.blog/2018/06/29/how-come-smoke.html",
 	      	
 			"content_html": "<p>How come smoke detector batteries only start to go dead at 3:30am?</p>\n",
-			"date_published": "2018-06-29T05:00:49-04:00",
+			"date_published": "2018-06-29T04:00:49-05:00",
 			"url": "https://wilson.micro.blog/2018/06/29/how-come-smoke.html"
 		},
 		
@@ -185,24 +201,8 @@
 			"id": "http://wilson.micro.blog/2018/06/29/after-the-dog.html",
 	      	
 			"content_html": "<p>After the dog died, I put her bed in the garage. Kids thought it was better the leave her empty bed in it’s usual place.</p>\n",
-			"date_published": "2018-06-28T20:56:58-04:00",
+			"date_published": "2018-06-28T19:56:58-05:00",
 			"url": "https://wilson.micro.blog/2018/06/28/after-the-dog.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/27/does-anyone-know.html",
-	      	
-			"content_html": "<p>Does anyone know of apps similar to Soulver and Calca for Mac? I use Soulver constantly but I need something that can help with matrix. Calca has not been updated in a while so I am looking for other alternatives.</p>\n",
-			"date_published": "2018-06-27T11:33:33-04:00",
-			"url": "https://wilson.micro.blog/2018/06/27/does-anyone-know.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/27/getting-back-to.html",
-	      	
-			"content_html": "<p>Getting back to work today. Trying to work on large datasets via VPN. It is very slow going.</p>\n",
-			"date_published": "2018-06-27T10:18:50-04:00",
-			"url": "https://wilson.micro.blog/2018/06/27/getting-back-to.html"
 		}
 		
 	]
