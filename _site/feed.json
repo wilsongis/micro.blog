@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/13/need-to-explore.html",
+	      	
+			"content_html": "<p>Need to explore more: <a href=\"http://tools.google.com/seedbank/\">Collection of Interactive Machine Learning Examples</a></p>\n",
+			"date_published": "2018-07-12T21:25:10-05:00",
+			"url": "https://wilson.micro.blog/2018/07/12/need-to-explore.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/12/finally-after-slides.html",
 	      	
 			"content_html": "<p>Finally after 101 slides in a lecture, I have a numerical example rather than just formulas.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>How come smoke detector batteries only start to go dead at 3:30am?</p>\n",
 			"date_published": "2018-06-29T04:00:49-05:00",
 			"url": "https://wilson.micro.blog/2018/06/29/how-come-smoke.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/06/29/after-the-dog.html",
-	      	
-			"content_html": "<p>After the dog died, I put her bed in the garage. Kids thought it was better the leave her empty bed in it’s usual place.</p>\n",
-			"date_published": "2018-06-28T19:56:58-05:00",
-			"url": "https://wilson.micro.blog/2018/06/28/after-the-dog.html"
 		}
 		
 	]
