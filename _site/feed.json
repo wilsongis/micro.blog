@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/19/135143.html",
+	      	
+			"content_html": "<p>Working on a DB project this morning. Trying to marry data together.</p>\n",
+			"date_published": "2018-07-19T08:51:43-05:00",
+			"url": "https://wilson.micro.blog/2018/07/19/135143.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/18/i-did-find.html",
 	      	
 			"content_html": "<p>I did find my next side project. I found some code in Go that I will try to rewrite in Elixir.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Feel like I have not written much lately. Really feel like I am doing a lot of juggling. Need to slow down, relax and wrote.</p>\n",
 			"date_published": "2018-07-06T23:20:42-05:00",
 			"url": "https://wilson.micro.blog/2018/07/06/feel-like-i.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/04/catching-up-on.html",
-	      	
-			"content_html": "<p>Catching up on my Pocket reading list - <a href=\"https://www.the-tls.co.uk/articles/public/thomas-bayes-science-crisis/\">Thomas Bayes and the crisis in science</a></p>\n",
-			"date_published": "2018-07-04T16:10:48-05:00",
-			"url": "https://wilson.micro.blog/2018/07/04/catching-up-on.html"
 		}
 		
 	]
