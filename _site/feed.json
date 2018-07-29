@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/29/chilling-with-alex.html",
+	      	
+			"content_html": "<p>Chilling with Alex and scout.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/d466646035.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-29T13:29:17-05:00",
+			"url": "https://wilson.micro.blog/2018/07/29/chilling-with-alex.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/28/been-struggling-with.html",
 	      	
 			"content_html": "<p>Been struggling with my Vue project. Getting the ArcGIS JavaScript API working is harder than I thought.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Spent some time on the lake this morning.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/6cf9f6bb8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-07T13:27:54-05:00",
 			"url": "https://wilson.micro.blog/2018/07/07/182754.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/07/when-did-esri.html",
-	      	
-			"content_html": "<p>When did ESRI launch the “Arcade” scripting language and does it work on desktop?</p>\n",
-			"date_published": "2018-07-07T08:17:46-05:00",
-			"url": "https://wilson.micro.blog/2018/07/07/when-did-esri.html"
 		}
 		
 	]
