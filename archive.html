@@ -9,7 +9,7 @@ order: 0
 
 {% for post in site.posts %}
 	<p class="h-entry">
-		<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="u-url"><span="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>:
+		<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="u-url"><span class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>:
 
 		{% if post.microblog == false %}
 			<span class="p-name"><b>{{ post.title }}</b></span> 
