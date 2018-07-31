@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/07/31/over-the-past.html",
+	      	
+			"content_html": "<p>Over the past several days, I have made a lot off headway getting ArcGIS API for JavaScript 3.25 working in Vue.js. I am hoping to launch the app by the end of the week.</p>\n",
+			"date_published": "2018-07-31T10:24:57-05:00",
+			"url": "https://wilson.micro.blog/2018/07/31/over-the-past.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/29/chilling-with-alex.html",
 	      	
 			"content_html": "<p>Chilling with Alex and scout.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/d466646035.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I have literally spent the last 7 hours working on a single test question that I know I did not get correct. My self-esteem and confidence is at an all-time low.</p>\n",
 			"date_published": "2018-07-07T23:07:44-05:00",
 			"url": "https://wilson.micro.blog/2018/07/07/i-have-literally.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/07/182754.html",
-	      	
-			"content_html": "<p>Spent some time on the lake this morning.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/6cf9f6bb8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-07T13:27:54-05:00",
-			"url": "https://wilson.micro.blog/2018/07/07/182754.html"
 		}
 		
 	]
