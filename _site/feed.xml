@@ -4,8 +4,26 @@
     <title>Michael J Wilson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/wilsongis&quot;&gt;@wilsongis on Micro.blog&lt;/a&gt;.</description>
     <link>https://wilson.micro.blog/</link>
-    <pubDate>Tue, 31 Jul 2018 10:25:05 -0500</pubDate>
-    <lastBuildDate>Tue, 31 Jul 2018 10:25:05 -0500</lastBuildDate>
+    <pubDate>Thu, 02 Aug 2018 22:30:08 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Aug 2018 22:30:08 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am really liking front end development in Vue. There are lots of examples and the documentation is good.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Aug 2018 22:29:07 -0500</pubDate>
+        <link>https://wilson.micro.blog/2018/08/02/i-am-really.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/08/03/i-am-really.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I canceled my hosting plan yesterday. I liked my host but I can just use netify for now.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Aug 2018 06:54:57 -0500</pubDate>
+        <link>https://wilson.micro.blog/2018/08/01/i-canceled-my.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/08/01/i-canceled-my.html</guid>
+      </item>
     
       <item>
       	
@@ -451,24 +469,6 @@
         <pubDate>Thu, 21 Jun 2018 10:05:51 -0500</pubDate>
         <link>https://wilson.micro.blog/2018/06/21/we-have-large.html</link>
         <guid isPermaLink="true">http://wilson.micro.blog/2018/06/21/we-have-large.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;img src=&quot;http://wilson.micro.blog/uploads/2018/e0c464eaf7.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Jun 2018 20:15:08 -0500</pubDate>
-        <link>https://wilson.micro.blog/2018/06/20/011508.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/21/011508.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;img src=&quot;http://wilson.micro.blog/uploads/2018/d76d755f2d.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://wilson.micro.blog/uploads/2018/1665b7a764.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Jun 2018 20:13:10 -0500</pubDate>
-        <link>https://wilson.micro.blog/2018/06/20/011310.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/21/011310.html</guid>
       </item>
     
   </channel>
