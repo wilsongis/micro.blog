@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/08/03/i-am-really.html",
+	      	
+			"content_text": "I am really liking front end development in Vue. There...",
+			"date_published": "2018-08-02T22:29:07-05:00",
+			"url": "https://wilson.micro.blog/2018/08/02/i-am-really.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/08/01/i-canceled-my.html",
+	      	
+			"content_text": "I canceled my hosting plan yesterday. I liked my host...",
+			"date_published": "2018-08-01T06:54:57-05:00",
+			"url": "https://wilson.micro.blog/2018/08/01/i-canceled-my.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/07/31/over-the-past.html",
 	      	
 			"content_text": "Over the past several days, I have made a lot...",
