@@ -4,8 +4,17 @@
     <title>Michael J Wilson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/wilsongis&quot;&gt;@wilsongis on Micro.blog&lt;/a&gt;.</description>
     <link>https://wilson.micro.blog/</link>
-    <pubDate>Thu, 02 Aug 2018 22:30:08 -0500</pubDate>
-    <lastBuildDate>Thu, 02 Aug 2018 22:30:08 -0500</lastBuildDate>
+    <pubDate>Sun, 05 Aug 2018 00:46:19 -0500</pubDate>
+    <lastBuildDate>Sun, 05 Aug 2018 00:46:19 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Continuing to work with Vue. Got frustrated using Sublime Text 3 as my IDE. Just could not get it configured the way I wanted. I decided to try with VSCode. So far I am really pleased.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Aug 2018 00:42:34 -0500</pubDate>
+        <link>https://wilson.micro.blog/2018/08/05/continuing-to-work.html</link>
+        <guid isPermaLink="true">http://wilson.micro.blog/2018/08/05/continuing-to-work.html</guid>
+      </item>
     
       <item>
       	
@@ -458,17 +467,6 @@
         <pubDate>Thu, 21 Jun 2018 19:06:37 -0500</pubDate>
         <link>https://wilson.micro.blog/2018/06/21/000637.html</link>
         <guid isPermaLink="true">http://wilson.micro.blog/2018/06/22/000637.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;We have large heads.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://wilson.micro.blog/uploads/2018/95f574c975.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Jun 2018 10:05:51 -0500</pubDate>
-        <link>https://wilson.micro.blog/2018/06/21/we-have-large.html</link>
-        <guid isPermaLink="true">http://wilson.micro.blog/2018/06/21/we-have-large.html</guid>
       </item>
     
   </channel>
