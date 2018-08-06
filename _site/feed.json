@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/08/05/continuing-to-work.html",
+	      	
+			"content_html": "<p>Continuing to work with Vue. Got frustrated using Sublime Text 3 as my IDE. Just could not get it configured the way I wanted. I decided to try with VSCode. So far I am really pleased.</p>\n",
+			"date_published": "2018-08-05T00:42:34-05:00",
+			"url": "https://wilson.micro.blog/2018/08/05/continuing-to-work.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/08/03/i-am-really.html",
 	      	
 			"content_html": "<p>I am really liking front end development in Vue. There are lots of examples and the documentation is good.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Wish I had a “magic” app for the design of experiments.</p>\n",
 			"date_published": "2018-07-10T19:33:50-05:00",
 			"url": "https://wilson.micro.blog/2018/07/10/wish-i-had.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/10/starting-to-work.html",
-	      	
-			"content_html": "<p>Starting to work on extending the new web map. Looking to add quality of life information.</p>\n",
-			"date_published": "2018-07-10T13:22:34-05:00",
-			"url": "https://wilson.micro.blog/2018/07/10/starting-to-work.html"
 		}
 		
 	]
