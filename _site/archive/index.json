@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/08/05/continuing-to-work.html",
+	      	
+			"content_text": "Continuing to work with Vue. Got frustrated using Sublime Text...",
+			"date_published": "2018-08-05T00:42:34-05:00",
+			"url": "https://wilson.micro.blog/2018/08/05/continuing-to-work.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/08/03/i-am-really.html",
 	      	
 			"content_text": "I am really liking front end development in Vue. There...",
