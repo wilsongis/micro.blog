@@ -37,7 +37,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
 site_id: "3333"
 gems: ["jekyll-paginate"]
+itunes_description: "Specializing in \"What Not to Do\" since 1972"
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Michael J Wilson"
+itunes_email: ""
 podcast: false
