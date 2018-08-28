@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/08/28/just-finished-listening.html",
+	      	
+			"content_html": "<p>Just finished listening to Diamond Age and I got to say I am really disappointed.</p>\n",
+			"date_published": "2018-08-27T19:54:06-05:00",
+			"url": "https://wilson.micro.blog/2018/08/27/just-finished-listening.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/08/22/133124.html",
 	      	
 			"content_html": "<p>Over the past couple of weeks I have become a huge fan of Nuxt and Vue for front-runner development.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Playing with iTerm2. Found an interesting article - <a href=\"https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961\">Configuration of a beautiful (efficient) terminal and prompt on OSX in 7minutes</a></p>\n",
 			"date_published": "2018-07-11T19:15:47-05:00",
 			"url": "https://wilson.micro.blog/2018/07/11/playing-with-iterm.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/11/saved-me-a.html",
-	      	
-			"content_html": "<p>Saved me a lot of time this morning: <a href=\"http://www.burdgis.com/blog/view/exporting-multiple-tables-from-a-geodatabase-using/\">Exporting multiple tables from a geodatabase using Modelbuilder in ArcGIS</a></p>\n",
-			"date_published": "2018-07-11T09:26:35-05:00",
-			"url": "https://wilson.micro.blog/2018/07/11/saved-me-a.html"
 		}
 		
 	]
