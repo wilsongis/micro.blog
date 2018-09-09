@@ -6,6 +6,78 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/09/07/i-ordered-something.html",
+	      	
+			"content_html": "<p>I ordered something this morning from Walmart.com and did the option to pickup today. It is now 5pm and I cannot pick my items up yet.  What’s the point, @walmart, if I can’t pick up in a timely manner?</p>\n",
+			"date_published": "2018-09-07T17:18:50-05:00",
+			"url": "https://wilson.micro.blog/2018/09/07/i-ordered-something.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/06/got-a-lot.html",
+	      	
+			"content_html": "<p>Got a lot done today. Although it was nothing Earth shattering, I got a bunch of small things done. I also added a variety of new ( and old tasks in my head) to OmniFocus.</p>\n",
+			"date_published": "2018-09-05T21:16:58-05:00",
+			"url": "https://wilson.micro.blog/2018/09/05/got-a-lot.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/05/think-i-am.html",
+	      	
+			"content_html": "<p>Think I am going to pull the trigger on SetApp. Looks like the cost will balance out based on apps that I use with paid upgrades vs going with a subscription.</p>\n",
+			"date_published": "2018-09-05T12:32:48-05:00",
+			"url": "https://wilson.micro.blog/2018/09/05/think-i-am.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/04/great-summary-of.html",
+	      	
+			"content_html": "<p>Great summary of Nuxt.js.  <a href=\"https://blog.jscrambler.com/nuxt-js-the-first-encounter/\">Nuxt.js — the First Encounter</a></p>\n",
+			"date_published": "2018-09-03T22:24:45-05:00",
+			"url": "https://wilson.micro.blog/2018/09/03/great-summary-of.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/03/fianlly-think-i.html",
+	      	
+			"content_html": "<p>Fianlly think I got my MBP straightened out. Going to make sure a backup is always running.</p>\n",
+			"date_published": "2018-09-03T07:51:19-05:00",
+			"url": "https://wilson.micro.blog/2018/09/03/fianlly-think-i.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/03/puppy-is-growing.html",
+	      	
+			"content_html": "<p>Puppy is growing quickly.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/1512f76ee8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-03T00:30:37-05:00",
+			"url": "https://wilson.micro.blog/2018/09/03/puppy-is-growing.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/03/working-on-using.html",
+	      	
+			"content_html": "<p>Working on using leaflet in a Nuxt based front end. I am having fun trying to get the css correct.</p>\n",
+			"date_published": "2018-09-03T00:28:11-05:00",
+			"url": "https://wilson.micro.blog/2018/09/03/working-on-using.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/02/wife-just-asked.html",
+	      	
+			"content_html": "<p>Wife just asked me why I was still awake. It is time for a weekend siesta.</p>\n",
+			"date_published": "2018-09-02T14:04:17-05:00",
+			"url": "https://wilson.micro.blog/2018/09/02/wife-just-asked.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/02/everytime-i-think.html",
+	      	
+			"content_html": "<p>Everytime I think I got the MBP going , I find more missing files. At least they are in SuperDuper. Probably going to need to order a new MacBook pro which angers me. I prefer to order because I can not because I have to.  I am also hoping that a new SSD in my 2015 will help as well.</p>\n",
+			"date_published": "2018-09-02T13:56:51-05:00",
+			"url": "https://wilson.micro.blog/2018/09/02/everytime-i-think.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/02/evil-macbook-pro.html",
 	      	
 			"content_html": "<p>Evil MacBook Pro, you don’t appear to have backup all of my files via Time machine. I am hoping SuperDuper has my back.</p>\n",
@@ -131,78 +203,6 @@
 			"content_html": "<p>For the past couple of days I have been working on a Vue.js based web app. I am liking Vue so far.</p>\n",
 			"date_published": "2018-07-24T18:37:43-05:00",
 			"url": "https://wilson.micro.blog/2018/07/24/for-the-past.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/19/135143.html",
-	      	
-			"content_html": "<p>Working on a DB project this morning. Trying to marry data together.</p>\n",
-			"date_published": "2018-07-19T08:51:43-05:00",
-			"url": "https://wilson.micro.blog/2018/07/19/135143.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/18/i-did-find.html",
-	      	
-			"content_html": "<p>I did find my next side project. I found some code in Go that I will try to rewrite in Elixir.</p>\n",
-			"date_published": "2018-07-17T22:42:36-05:00",
-			"url": "https://wilson.micro.blog/2018/07/17/i-did-find.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/18/been-a-long.html",
-	      	
-			"content_html": "<p>Been a long day. Trying to merge 2 different code bases together to build a single project.</p>\n",
-			"date_published": "2018-07-17T22:41:30-05:00",
-			"url": "https://wilson.micro.blog/2018/07/17/been-a-long.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/16/034552.html",
-	      	
-			"content_html": "<p>Trying to get a puppy usedto going to sleep for the night. Seems to be doing better tonight.</p>\n",
-			"date_published": "2018-07-15T22:45:52-05:00",
-			"url": "https://wilson.micro.blog/2018/07/15/034552.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/15/just-read-recommitting.html",
-	      	
-			"content_html": "<p>Just read <a href=\"https://mjdescy.me/2018/07/10/re-committing-to-pinboard-after-many-months-away/\">“Re-committing to Pinboard, after many months away”</a> and I am rethinking how I can use Pinboard. I also am thinking of upgrading to the archival Account on pinboard.</p>\n",
-			"date_published": "2018-07-15T13:45:54-05:00",
-			"url": "https://wilson.micro.blog/2018/07/15/just-read-recommitting.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/15/going-to-write.html",
-	      	
-			"content_html": "<p>Going to write some scripts to post my pinboard links to micro.blog. I want to make an effort to better use pinboard.</p>\n",
-			"date_published": "2018-07-14T22:27:00-05:00",
-			"url": "https://wilson.micro.blog/2018/07/14/going-to-write.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/14/i-have-not.html",
-	      	
-			"content_html": "<p>I have not opened the twitter app or looked at the site in several days. I have only been posting on Micro.Blog. I find I am more content not seeing various political opinions.</p>\n",
-			"date_published": "2018-07-14T14:51:54-05:00",
-			"url": "https://wilson.micro.blog/2018/07/14/i-have-not.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/14/trying-to-build.html",
-	      	
-			"content_html": "<p>Trying to build a quality of life map. Found this as a great resource. <a href=\"http://censusreporter.tumblr.com/post/73727555158/easier-access-to-acs-data\">Easier Access to ACS Data</a></p>\n",
-			"date_published": "2018-07-13T20:49:54-05:00",
-			"url": "https://wilson.micro.blog/2018/07/13/trying-to-build.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/07/14/004844.html",
-	      	
-			"content_html": "<p><img src=\"http://wilson.micro.blog/uploads/2018/988f522c69.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-07-13T19:48:44-05:00",
-			"url": "https://wilson.micro.blog/2018/07/13/004844.html"
 		}
 		
 	]
