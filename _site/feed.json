@@ -1,9 +1,50 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Michael J Wilson",
+	"icon": "https://micro.blog/wilsongis/avatar.jpg",
 	"home_page_url": "https://wilson.micro.blog/",
 	"feed_url": "https://wilson.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/15/with-the-new.html",
+	      	
+			"content_html": "<p>With the new MBP is the i9 processor worth the extra cost? I am doing the 32gb of RAM and the 512 ssd. Might try downgrading to the 256 though.</p>\n",
+			"date_published": "2018-09-15T13:21:11-05:00",
+			"url": "https://wilson.micro.blog/2018/09/15/with-the-new.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/10/trying-to-decide.html",
+	      	
+			"content_html": "<p>Trying to decide if I need learn dojo. Is it worth it?</p>\n",
+			"date_published": "2018-09-09T23:11:10-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/trying-to-decide.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/10/get-on-the.html",
+	      	
+			"content_html": "<p>Get on the couch, you go to doggie jail.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/64edbc86e2.jpg\" width=\"600\" height=\"600\" /><img src=\"http://wilson.micro.blog/uploads/2018/ce3757faa7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-09T20:43:58-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/get-on-the.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/10/i-am-sure.html",
+	      	
+			"content_html": "<p>I am sure glad Apple created the Mac App Store. It really has eliminated any concerns a user could have regarded what an app does!</p>\n",
+			"date_published": "2018-09-09T20:41:44-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/i-am-sure.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/09/i-finished-converting.html",
+	      	
+			"content_html": "<p>I finished converting all my Pocket articles into Pinboard.in today. I have been a Pinboard user for years and it just makes sense to eliminate apps that duplicate functionality. Also, Pinboard is just that good.</p>\n",
+			"date_published": "2018-09-09T16:26:37-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/i-finished-converting.html"
+		},
 		
 		{
 			"id": "http://wilson.micro.blog/2018/09/09/this-will-really.html",
@@ -163,46 +204,6 @@
 			"content_html": "<p>Over the past couple of weeks I have become a huge fan of Nuxt and Vue for front-runner development.</p>\n",
 			"date_published": "2018-08-22T08:31:24-05:00",
 			"url": "https://wilson.micro.blog/2018/08/22/133124.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/21/thinking-about-canceling.html",
-	      	
-			"content_html": "<p>Thinking about canceling my DayOne subscription. I am really not getting my money’s worth. Anyone suggest an alternative?</p>\n",
-			"date_published": "2018-08-20T22:01:03-05:00",
-			"url": "https://wilson.micro.blog/2018/08/20/thinking-about-canceling.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/06/went-to-the.html",
-	      	
-			"content_html": "<p>Went to the dog park today.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/e5438fdde5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-05T20:18:22-05:00",
-			"url": "https://wilson.micro.blog/2018/08/05/went-to-the.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/05/bad-night-for.html",
-	      	
-			"content_html": "<p>Bad night for sleep. Woke up early and often.</p>\n",
-			"date_published": "2018-08-05T06:51:56-05:00",
-			"url": "https://wilson.micro.blog/2018/08/05/bad-night-for.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/05/continuing-to-work.html",
-	      	
-			"content_html": "<p>Continuing to work with Vue. Got frustrated using Sublime Text 3 as my IDE. Just could not get it configured the way I wanted. I decided to try with VSCode. So far I am really pleased.</p>\n",
-			"date_published": "2018-08-05T00:42:34-05:00",
-			"url": "https://wilson.micro.blog/2018/08/05/continuing-to-work.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/03/i-am-really.html",
-	      	
-			"content_html": "<p>I am really liking front end development in Vue. There are lots of examples and the documentation is good.</p>\n",
-			"date_published": "2018-08-02T22:29:07-05:00",
-			"url": "https://wilson.micro.blog/2018/08/02/i-am-really.html"
 		}
 		
 	]
