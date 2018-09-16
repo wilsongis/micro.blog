@@ -1,9 +1,50 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Michael J Wilson",
+	"icon": "https://micro.blog/wilsongis/avatar.jpg",
 	"home_page_url": "https://wilson.micro.blog/",
 	"feed_url": "https://wilson.micro.blog/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/15/with-the-new.html",
+	      	
+			"content_text": "With the new MBP is the i9 processor worth the...",
+			"date_published": "2018-09-15T13:21:11-05:00",
+			"url": "https://wilson.micro.blog/2018/09/15/with-the-new.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/10/trying-to-decide.html",
+	      	
+			"content_text": "Trying to decide if I need learn dojo. Is it...",
+			"date_published": "2018-09-09T23:11:10-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/trying-to-decide.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/10/get-on-the.html",
+	      	
+			"content_text": "Get on the couch, you go to doggie jail.\n\n\n",
+			"date_published": "2018-09-09T20:43:58-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/get-on-the.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/10/i-am-sure.html",
+	      	
+			"content_text": "I am sure glad Apple created the Mac App Store....",
+			"date_published": "2018-09-09T20:41:44-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/i-am-sure.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/09/i-finished-converting.html",
+	      	
+			"content_text": "I finished converting all my Pocket articles into Pinboard.in today....",
+			"date_published": "2018-09-09T16:26:37-05:00",
+			"url": "https://wilson.micro.blog/2018/09/09/i-finished-converting.html"
+		},
 		
 		{
 			"id": "http://wilson.micro.blog/2018/09/09/this-will-really.html",
