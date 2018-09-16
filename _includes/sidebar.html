@@ -16,7 +16,7 @@
 
 		{% assign sorted_pages = site.pages | sort: "order" %}
 		{% for node in sorted_pages %}
-			{% if node.title %}
+			{% if node.title and node.navigation %}
 				<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
 			{% endif %}
 		{% endfor %}
