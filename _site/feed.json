@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/09/16/getting-ready-for.html",
+	      	
+			"content_html": "<p>Getting ready for the game.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/2232a6d600.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-16T11:47:52-05:00",
+			"url": "https://wilson.micro.blog/2018/09/16/getting-ready-for.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/15/with-the-new.html",
 	      	
 			"content_html": "<p>With the new MBP is the i9 processor worth the extra cost? I am doing the 32gb of RAM and the 512 ssd. Might try downgrading to the 256 though.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Just finished listening to Diamond Age and I got to say I am really disappointed.</p>\n",
 			"date_published": "2018-08-27T19:54:06-05:00",
 			"url": "https://wilson.micro.blog/2018/08/27/just-finished-listening.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/22/133124.html",
-	      	
-			"content_html": "<p>Over the past couple of weeks I have become a huge fan of Nuxt and Vue for front-runner development.</p>\n",
-			"date_published": "2018-08-22T08:31:24-05:00",
-			"url": "https://wilson.micro.blog/2018/08/22/133124.html"
 		}
 		
 	]
