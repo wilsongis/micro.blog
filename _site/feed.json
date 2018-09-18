@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/09/18/035115.html",
+	      	
+			"content_html": "<p>I really enjoy using a MBP. It is time to upgrade and struggling to decide. Is it better for faster processor or more ram and bigger ssd?</p>\n",
+			"date_published": "2018-09-17T22:51:15-05:00",
+			"url": "https://wilson.micro.blog/2018/09/17/035115.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/17/tried-to-switch.html",
+	      	
+			"content_html": "<p>Tried to switch from Papers.app to Endnote today. It did not end well. I am thinking I will stick with Papers.</p>\n",
+			"date_published": "2018-09-16T21:37:02-05:00",
+			"url": "https://wilson.micro.blog/2018/09/16/tried-to-switch.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/17/feeling-all-sorts.html",
+	      	
+			"content_html": "<p>Feeling all sorts of off tonight. Wanted to get a couple of things done so that I could get my week off to a good start. Instead I am down for the count.</p>\n",
+			"date_published": "2018-09-16T21:35:32-05:00",
+			"url": "https://wilson.micro.blog/2018/09/16/feeling-all-sorts.html"
+		},
+		
+		{
+			"id": "http://wilson.micro.blog/2018/09/16/dog-is-horrified.html",
+	      	
+			"content_html": "<p>Dog is horrified by both the Eagles offence and defence.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/7b5e254e65.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-16T13:50:57-05:00",
+			"url": "https://wilson.micro.blog/2018/09/16/dog-is-horrified.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/16/getting-ready-for.html",
 	      	
 			"content_html": "<p>Getting ready for the game.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/2232a6d600.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p>Evil MacBook Pro, you don’t appear to have backup all of my files via Time machine. I am hoping SuperDuper has my back.</p>\n",
 			"date_published": "2018-09-02T06:13:31-05:00",
 			"url": "https://wilson.micro.blog/2018/09/02/evil-macbook-pro.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/09/02/macbook-pro-crapped.html",
-	      	
-			"content_html": "<p>2015 MacBook Pro crapped out last night. Spent the day trying to get a backup to restore but that is not going well either. I am wondering if it is a hard drive issue.</p>\n",
-			"date_published": "2018-09-01T20:43:27-05:00",
-			"url": "https://wilson.micro.blog/2018/09/01/macbook-pro-crapped.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/29/it-would-be.html",
-	      	
-			"content_html": "<p>It would be great if I could code and test a node based app directly on my iPad. I feel like my productivity would go through the roof.</p>\n",
-			"date_published": "2018-08-28T21:44:39-05:00",
-			"url": "https://wilson.micro.blog/2018/08/28/it-would-be.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/29/trying-to-look.html",
-	      	
-			"content_html": "<p>Trying to look at how I am managing my life again (feels like a 6 month repeating task). I have dropped the ball on some projects and need to get caught up.</p>\n",
-			"date_published": "2018-08-28T21:42:05-05:00",
-			"url": "https://wilson.micro.blog/2018/08/28/trying-to-look.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/08/28/just-finished-listening.html",
-	      	
-			"content_html": "<p>Just finished listening to Diamond Age and I got to say I am really disappointed.</p>\n",
-			"date_published": "2018-08-27T19:54:06-05:00",
-			"url": "https://wilson.micro.blog/2018/08/27/just-finished-listening.html"
 		}
 		
 	]
