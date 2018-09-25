@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/09/25/started-doing-some.html",
+	      	
+			"content_html": "<p>Started doing some preliminary work to use machine learning in my GIS work. Looking forward to seeing what we can do.</p>\n",
+			"date_published": "2018-09-25T10:24:49-05:00",
+			"url": "https://wilson.micro.blog/2018/09/25/started-doing-some.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/20/thought-provoking-article.html",
 	      	
 			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>Thought provoking article.  [Disclosure of autism at work holds risks and benefits</td>\n      <td>Spectrum</td>\n      <td>Autism Research News](https://www.spectrumnews.org/opinion/viewpoint/disclosure-autism-work-holds-risks-benefits/)</td>\n    </tr>\n  </tbody>\n</table>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Puppy is growing quickly.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/1512f76ee8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-09-03T00:30:37-05:00",
 			"url": "https://wilson.micro.blog/2018/09/03/puppy-is-growing.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/09/03/working-on-using.html",
-	      	
-			"content_html": "<p>Working on using leaflet in a Nuxt based front end. I am having fun trying to get the css correct.</p>\n",
-			"date_published": "2018-09-03T00:28:11-05:00",
-			"url": "https://wilson.micro.blog/2018/09/03/working-on-using.html"
 		}
 		
 	]
