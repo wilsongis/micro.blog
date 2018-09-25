@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/09/25/started-doing-some.html",
+	      	
+			"content_text": "Started doing some preliminary work to use machine learning in...",
+			"date_published": "2018-09-25T10:24:49-05:00",
+			"url": "https://wilson.micro.blog/2018/09/25/started-doing-some.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/20/thought-provoking-article.html",
 	      	
 			"content_text": "Thought provoking article. [Disclosure of autism at work holds risks...",
