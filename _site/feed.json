@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/09/26/just-finished-an.html",
+	      	
+			"content_html": "<p>Just finished an engineering lecture. Tottally switching gears and watching a Nuxt lecture.</p>\n",
+			"date_published": "2018-09-26T18:56:44-05:00",
+			"url": "https://wilson.micro.blog/2018/09/26/just-finished-an.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/25/started-doing-some.html",
 	      	
 			"content_html": "<p>Started doing some preliminary work to use machine learning in my GIS work. Looking forward to seeing what we can do.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Fianlly think I got my MBP straightened out. Going to make sure a backup is always running.</p>\n",
 			"date_published": "2018-09-03T07:51:19-05:00",
 			"url": "https://wilson.micro.blog/2018/09/03/fianlly-think-i.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/09/03/puppy-is-growing.html",
-	      	
-			"content_html": "<p>Puppy is growing quickly.</p>\n\n<p><img src=\"http://wilson.micro.blog/uploads/2018/1512f76ee8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-03T00:30:37-05:00",
-			"url": "https://wilson.micro.blog/2018/09/03/puppy-is-growing.html"
 		}
 		
 	]
