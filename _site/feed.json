@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/09/28/i-am-a.html",
+	      	
+			"content_html": "<p>I am a long time OmniFocus user and with the new release, I will need to buy the upgrade. Can anyone recommend a good alternative to Omni? I will probably stick but it is good time to explore.</p>\n",
+			"date_published": "2018-09-28T12:57:17-05:00",
+			"url": "https://wilson.micro.blog/2018/09/28/i-am-a.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/26/just-finished-an.html",
 	      	
 			"content_html": "<p>Just finished an engineering lecture. Tottally switching gears and watching a Nuxt lecture.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Great summary of Nuxt.js.  <a href=\"https://blog.jscrambler.com/nuxt-js-the-first-encounter/\">Nuxt.js — the First Encounter</a></p>\n",
 			"date_published": "2018-09-03T22:24:45-05:00",
 			"url": "https://wilson.micro.blog/2018/09/03/great-summary-of.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/09/03/fianlly-think-i.html",
-	      	
-			"content_html": "<p>Fianlly think I got my MBP straightened out. Going to make sure a backup is always running.</p>\n",
-			"date_published": "2018-09-03T07:51:19-05:00",
-			"url": "https://wilson.micro.blog/2018/09/03/fianlly-think-i.html"
 		}
 		
 	]
