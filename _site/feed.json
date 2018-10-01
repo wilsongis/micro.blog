@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://wilson.micro.blog/2018/10/01/spending-more-time.html",
+	      	
+			"content_html": "<p>Spending more time looking at a the various subscription I pay and looking for things to ditch. Can’t decide about DayOne.</p>\n",
+			"date_published": "2018-09-30T22:00:24-05:00",
+			"url": "https://wilson.micro.blog/2018/09/30/spending-more-time.html"
+		},
+		
+		{
 			"id": "http://wilson.micro.blog/2018/09/28/i-am-a.html",
 	      	
 			"content_html": "<p>I am a long time OmniFocus user and with the new release, I will need to buy the upgrade. Can anyone recommend a good alternative to Omni? I will probably stick but it is good time to explore.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Think I am going to pull the trigger on SetApp. Looks like the cost will balance out based on apps that I use with paid upgrades vs going with a subscription.</p>\n",
 			"date_published": "2018-09-05T12:32:48-05:00",
 			"url": "https://wilson.micro.blog/2018/09/05/think-i-am.html"
-		},
-		
-		{
-			"id": "http://wilson.micro.blog/2018/09/04/great-summary-of.html",
-	      	
-			"content_html": "<p>Great summary of Nuxt.js.  <a href=\"https://blog.jscrambler.com/nuxt-js-the-first-encounter/\">Nuxt.js — the First Encounter</a></p>\n",
-			"date_published": "2018-09-03T22:24:45-05:00",
-			"url": "https://wilson.micro.blog/2018/09/03/great-summary-of.html"
 		}
 		
 	]
